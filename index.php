@@ -2,6 +2,6 @@
 
   echo "Olá Mundo123!!";
 
-  echo "Olá Junim";
+  echo "Olá aluno";
 
 ?>
